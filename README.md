@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @otterboyjs
+- 👀 I’m interested in Learning more about coding
+- 🌱 I’m currently learning Java & Python
+- 💞️ I’m looking to collaborate on Whatever you can teach me?
+- 📫 How to reach me @jacks314 on Telegram
